@@ -1,0 +1,9 @@
+{
+  "name": "limites",
+  "version": "1.1.0",
+  "description": "Rend Claude conscient de ses limites de session (5 h) et hebdomadaires, avec statut et alertes",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "MostahDev"
+  }
+}

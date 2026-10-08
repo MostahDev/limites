@@ -1,0 +1,13 @@
+{
+  "name": "limites",
+  "owner": {
+    "name": "MostahDev"
+  },
+  "plugins": [
+    {
+      "name": "limites",
+      "source": "./",
+      "description": "Rend Claude conscient de ses limites de session (5 h) et hebdomadaires, avec statut et alertes"
+    }
+  ]
+}
